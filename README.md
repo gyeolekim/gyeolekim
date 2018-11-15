@@ -1,2 +1,1 @@
 # gyeolekim
-my name
